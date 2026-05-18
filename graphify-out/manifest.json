@@ -1,0 +1,326 @@
+{
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK1\\mysqlsampledatabase.sql": {
+    "mtime": 1777479299.6884692,
+    "hash": "dec4a05a1dd0f8a4853976ce0de2bbf5"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK2\\fuseAiF_wk2_customer_api_app\\main.py": {
+    "mtime": 1778420871.1833425,
+    "hash": "93c18b5932dcb9f0e0f1702d23a4aa8a"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK2\\fuseAiF_wk2_customer_api_app\\app\\config.py": {
+    "mtime": 1778416946.3870697,
+    "hash": "ec7138760bef521b5e8e090a3ac38575"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK2\\fuseAiF_wk2_customer_api_app\\app\\crud.py": {
+    "mtime": 1778420734.9121397,
+    "hash": "d7b9c8f4f5e0f313f23c24560c9afd11"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK2\\fuseAiF_wk2_customer_api_app\\app\\database.py": {
+    "mtime": 1778417548.5874422,
+    "hash": "12060ddddd459e98c91ac675e3cc990d"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK2\\fuseAiF_wk2_customer_api_app\\app\\employees_router.py": {
+    "mtime": 1778420842.5572605,
+    "hash": "eb95e5e02540529eb93196e3c01213c2"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK2\\fuseAiF_wk2_customer_api_app\\app\\logger.py": {
+    "mtime": 1778417546.5782914,
+    "hash": "7e4333b15e3fb2fda2d4892b5b939dcd"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK2\\fuseAiF_wk2_customer_api_app\\app\\models.py": {
+    "mtime": 1778416855.3363166,
+    "hash": "a7d411b7022a640487d4f112df3e2cae"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK2\\fuseAiF_wk2_customer_api_app\\app\\offices_router.py": {
+    "mtime": 1778420840.5384626,
+    "hash": "df12ba1792c6be90de8f1eb2e961c101"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK2\\fuseAiF_wk2_customer_api_app\\app\\orderdetails_router.py": {
+    "mtime": 1778420857.3868804,
+    "hash": "955417fba7cdf0be2af036d2915ab6ef"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK2\\fuseAiF_wk2_customer_api_app\\app\\orders_router.py": {
+    "mtime": 1778420789.6405418,
+    "hash": "70c6fa47243ea12c057200bf903ff008"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK2\\fuseAiF_wk2_customer_api_app\\app\\payments_router.py": {
+    "mtime": 1778420791.6567886,
+    "hash": "f91e06c21b440803bc895eefb552e7c9"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK2\\fuseAiF_wk2_customer_api_app\\app\\productlines_router.py": {
+    "mtime": 1778420793.6792643,
+    "hash": "131f21dfe635ece5541200f4ef7d9308"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK2\\fuseAiF_wk2_customer_api_app\\app\\products_router.py": {
+    "mtime": 1778420838.5221934,
+    "hash": "6c9c5f13c5509f954fbdb0df3540b41e"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK2\\fuseAiF_wk2_customer_api_app\\app\\router.py": {
+    "mtime": 1778419398.1998749,
+    "hash": "de06f3c61998e29c3f19f22639f8f7a5"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK2\\fuseAiF_wk2_customer_api_app\\app\\schemas.py": {
+    "mtime": 1778420670.3546107,
+    "hash": "499a002cf214622685ae1fcac18acdaf"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK2\\fuseAiF_wk2_customer_api_app\\app\\seed.sql": {
+    "mtime": 1778003869.643442,
+    "hash": "2174c551e36b5b240212cb0bb5e017a7"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK2\\fuseAiF_wk2_customer_api_app\\app\\stats_router.py": {
+    "mtime": 1778419465.5688632,
+    "hash": "8d99dab2ec7c98f46a38570f7a89f264"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK3\\seed.sql": {
+    "mtime": 1778609615.5924768,
+    "hash": "2174c551e36b5b240212cb0bb5e017a7"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK3\\fuseAiF_wk3_text2sql\\database.py": {
+    "mtime": 1779104223.0417542,
+    "hash": "3d8d6c00144c0e62a976e1c3c2bb8d4f"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK3\\fuseAiF_wk3_text2sql\\executor.py": {
+    "mtime": 1778609744.0,
+    "hash": "fe3cd982790ad9eee23930f735c7c2f8"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK3\\fuseAiF_wk3_text2sql\\llm_client.py": {
+    "mtime": 1779031281.4823525,
+    "hash": "7653b34cb222eb09a9a9aee55d310390"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK3\\fuseAiF_wk3_text2sql\\main.py": {
+    "mtime": 1779031101.70737,
+    "hash": "3df872bf78c08e421fbd042488546bef"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK3\\fuseAiF_wk3_text2sql\\prepopulate_cache.py": {
+    "mtime": 1779032818.2302935,
+    "hash": "8c3f6ea46ba8888ee7c5b5eec9dd0c63"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK3\\fuseAiF_wk3_text2sql\\run_benchmark.py": {
+    "mtime": 1779030871.7121007,
+    "hash": "bb9179fa8240d4e09196c4d7d2f1da08"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK3\\fuseAiF_wk3_text2sql\\seed.sql": {
+    "mtime": 1778609910.0,
+    "hash": "2174c551e36b5b240212cb0bb5e017a7"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK3\\fuseAiF_wk3_text2sql\\sql_generator.py": {
+    "mtime": 1779032254.1349852,
+    "hash": "b5e647e7fca0bf22793dc8c485bf43f2"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK3\\fuseAiF_wk3_text2sql\\streamlit_app.py": {
+    "mtime": 1779104223.0437684,
+    "hash": "3fc02e2c33d0f9cecbb2fa8630b9894f"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK3\\fuseAiF_wk3_text2sql\\test_agent.py": {
+    "mtime": 1779023817.6867208,
+    "hash": "ee656d422e83db155bf7ed8dc61d1d9a"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK3\\fuseAiF_wk3_text2sql\\test_model.py": {
+    "mtime": 1779032818.2314546,
+    "hash": "71cbb09509a7664e56eb15bc5cf8f4e2"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK3\\fuseAiF_wk3_text2sql\\validator.py": {
+    "mtime": 1778609684.0,
+    "hash": "5cd49876de4fcdda41ef36aaaefb24d7"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK3\\fuseAiF_wk3_text2sql\\verify_pipeline.py": {
+    "mtime": 1779022372.091969,
+    "hash": "e4ef17fba7f4942461415e5759f39bf1"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK3\\fuseAiF_wk3_text2sql\\prompts\\ground_truth.py": {
+    "mtime": 1779022420.3679483,
+    "hash": "51793f61fe9b23860585fa666121f219"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK3\\fuseAiF_wk3_text2sql\\prompts\\templates.py": {
+    "mtime": 1779023858.8525875,
+    "hash": "797dc96791771abe4c3645e2b1078cee"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK3\\fuseAiF_wk3_text2sql\\task1\\generate_task1_part1.py": {
+    "mtime": 1779024593.4740782,
+    "hash": "d987dd29db4be841349cd13cc26d9d72"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK4\\complete_notebook.py": {
+    "mtime": 1779099226.084488,
+    "hash": "0df1f29427dd63f1497c3b84dba9fdce"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK4\\complete_notebook_by_index.py": {
+    "mtime": 1779099410.0098267,
+    "hash": "4326e943f6ec7f13df3e8b3982942a8d"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK4\\inspect_cells.py": {
+    "mtime": 1779099318.4486442,
+    "hash": "7062b7dd345e47f62776257861ad04a9"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK4\\inspect_notebook.py": {
+    "mtime": 1779099347.0747745,
+    "hash": "3a94f432b19807f7d3668c93d4979481"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK4\\search_notebook.py": {
+    "mtime": 1779099304.315661,
+    "hash": "1078efb58e5af635fea3f6b034b34501"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\graphify_plan.md": {
+    "mtime": 1779099545.3225083,
+    "hash": "535d15ac4056bb1c65d7a17982c5ec73"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK1\\Fuse_Fellowship_WK1_Session.md": {
+    "mtime": 1777476976.6343756,
+    "hash": "583c5f921d2e9be040257f5bfe2c7d79"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK2\\Classical Models API - Swagger UI.html": {
+    "mtime": 1778418731.5538347,
+    "hash": "1578485caacd96b19d1d6f35dcb5fd23"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK2\\implementation_plan.md": {
+    "mtime": 1778420357.898679,
+    "hash": "fe5d08384215ea44cf1b998c1477fd05"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK2\\walkthrough.md": {
+    "mtime": 1778419656.4945724,
+    "hash": "b5c4e5fd8298350a8394f00d73c497d0"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK2\\fuseAiF_wk2_customer_api_app\\docker-compose.yml": {
+    "mtime": 1778418332.1025078,
+    "hash": "59acecb25467d55c0bb93ed1efe9c422"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK2\\fuseAiF_wk2_customer_api_app\\README.md": {
+    "mtime": 1778425615.219635,
+    "hash": "b9ffab6b77189123fd556807e130c662"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK2\\fuseAiF_wk2_customer_api_app\\requirements.txt": {
+    "mtime": 1778414560.7211645,
+    "hash": "f9d4a0ef11b9c775b199e5a39f73697b"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK3\\Claude_export_Missing task PDFs from Google Classroom_5ca66149-8282-4ecf-9943-0d6cda8297e2.html": {
+    "mtime": 1778866308.5450544,
+    "hash": "705a827ce8871a871770d31ffd906c4c"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK3\\Week3_GenAI_Submission.md": {
+    "mtime": 1779020550.1898358,
+    "hash": "f7a8cfa82cb87a3bdb6d93247249cded"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK3\\fuseAiF_wk3_text2sql\\docker-compose.yml": {
+    "mtime": 1779027120.7979171,
+    "hash": "570df4ebfd2043a4019ee60caa937bfc"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK3\\fuseAiF_wk3_text2sql\\README.md": {
+    "mtime": 1779033311.1033382,
+    "hash": "4c85cb9dbde562e08fbb979fd30aa1bd"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK3\\fuseAiF_wk3_text2sql\\requirements.txt": {
+    "mtime": 1779027120.7909179,
+    "hash": "a6de01670d79f296a2b13ebc338e6dfe"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK3\\fuseAiF_wk3_text2sql\\session.md": {
+    "mtime": 1779032818.230923,
+    "hash": "24ed52442c71652099ddad961ac3c35d"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK3\\fuseAiF_wk3_text2sql\\task_progress.md": {
+    "mtime": 1779029827.6043217,
+    "hash": "cabc57c9cf20e81b29fdca0302bde589"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK3\\fuseAiF_wk3_text2sql\\test_out.txt": {
+    "mtime": 1779032818.2330742,
+    "hash": "dba7145aa20fbeaa35bebb383f2886c7"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK3\\fuseAiF_wk3_text2sql\\submission\\Week3_Combined_Submission.md": {
+    "mtime": 1779028551.0220096,
+    "hash": "150def509edc693290c7aea49e670c52"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK3\\fuseAiF_wk3_text2sql\\submission\\Week3_GenAI_Submission.md": {
+    "mtime": 1779026680.4781022,
+    "hash": "2d6c56517abdac0d2c1b1516f254039d"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK3\\fuseAiF_wk3_text2sql\\submission\\Week3_Task_Plan.md": {
+    "mtime": 1779024265.5151145,
+    "hash": "30dcc0cf2cc6fc46972346ecda844d9c"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK3\\fuseAiF_wk3_text2sql\\task1\\Task1_Completion_Summary.md": {
+    "mtime": 1779024671.549408,
+    "hash": "61007eefc5c2b385321f4a1d5b15474e"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK3\\fuseAiF_wk3_text2sql\\task1\\Task1_Part1_Ground_Truth.md": {
+    "mtime": 1779024596.7682607,
+    "hash": "7d26c3137ca26892ff6c921e23f8f2fc"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK3\\fuseAiF_wk3_text2sql\\task1\\Task1_Part2_Evaluation_Framework.md": {
+    "mtime": 1779024648.3991613,
+    "hash": "9ce115a661eb0144e6e20f68ec7fe80e"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK3\\fuseAiF_wk3_text2sql\\task1\\Task1_Part2_Evaluation_Strategy.md": {
+    "mtime": 1778609813.0,
+    "hash": "1e692721c30f56621d29671617c0fa86"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK3\\fuseAiF_wk3_text2sql\\task2\\Task2_Query_Decompositions.md": {
+    "mtime": 1778609866.0,
+    "hash": "5e61ebd5b1b422e547f9c020917588a5"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK4\\notebook_cells.txt": {
+    "mtime": 1779099352.929709,
+    "hash": "0dcb3ed01b89884ee23e6a32ba0a03a9"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK4\\README.md": {
+    "mtime": 1779098156.7570055,
+    "hash": "8c6c18bf7db7576fd55aa3eba9348c15"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK4\\W4_Task_Plan.md": {
+    "mtime": 1779099209.6397836,
+    "hash": "fb99688ab6da4674d236ac6c4069aa20"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK1\\Contents WK1.pdf": {
+    "mtime": 1777462958.172941,
+    "hash": "67dea76034bea7cfeb19957f2b2308bf"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK1\\Data Wrangling Contents.pdf": {
+    "mtime": 1777462884.8870318,
+    "hash": "e5e4edcb551c65253c005060c940fc2e"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK1\\Learning Data Wrangling with AI.pdf": {
+    "mtime": 1777462929.4830189,
+    "hash": "e42fcc3a402475a1af1a0747d17479bf"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK1\\WK1 Data Wrangling.pdf": {
+    "mtime": 1777462904.408842,
+    "hash": "9a43241a74e60afc07f2ce8ceaf1c098"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK3\\GEN AI WK3.pdf": {
+    "mtime": 1778609330.308074,
+    "hash": "8ae31d9da4b876dc548a564301fb7932"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK3\\Week3_Task1_Assignment.pdf": {
+    "mtime": 1778609599.7873416,
+    "hash": "de34bab84c72aa1781d7612c8085910d"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK3\\Week3_Task2_Assignment.pdf": {
+    "mtime": 1778609604.5578823,
+    "hash": "3cea50f132fb3e2c7a2b80c22808176e"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK3\\Week3_Task3_Assignment.pdf": {
+    "mtime": 1778609594.0548885,
+    "hash": "d22497fde7cf80813375bec0b4e9c2fc"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK3\\Week3_Task4_Assignment.pdf": {
+    "mtime": 1778609588.4819348,
+    "hash": "da3beb84710f92a5d25565d33531e89d"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK3\\WK3 Problem set.pdf": {
+    "mtime": 1778609354.3833168,
+    "hash": "62dfe62151849b8b5ffa28a7fbec5fba"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK4\\W4 Linear Model Assignment Overview.pdf": {
+    "mtime": 1779096734.5439281,
+    "hash": "f553209d24a499ebc87385685510e6be"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK4\\W4_Linear_Model_Assignment.pdf": {
+    "mtime": 1779096748.3393948,
+    "hash": "33383a39a32584175b8cf0ab3491dc75"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK3\\fuseAiF_wk3_text2sql\\submission\\screenshots\\streamlit_agent_shipped_orders_usa.png": {
+    "mtime": 1779028338.4533277,
+    "hash": "1695d339e8d9073832e24d289756f505"
+  },
+  "C:\\Users\\Aaradhya\\Downloads\\_Organized\\Fuse AI Fellowship\\FUSE AIF 2026\\WK3\\fuseAiF_wk3_text2sql\\submission\\screenshots\\streamlit_agent_total_columns.png": {
+    "mtime": 1779028322.7938964,
+    "hash": "43525e596953d845e84f238d3e13bdce"
+  }
+}
