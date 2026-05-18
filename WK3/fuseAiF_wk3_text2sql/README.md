@@ -54,7 +54,7 @@ The core text-to-SQL engine has been engineered to support enterprise-grade robu
 ### Install dependencies
 
 ```bash
-cd "c:/Users/Aaradhya/Downloads/_Organized/Fuse AI Fellowship/FUSE AIF 2026/WK3/fuseAiF_wk3_text2sql"
+cd "c:/Users/Aaradhya/Downloads/_Organized/Fuse AI Fellowship/FUSE AIF 2026 M1/WK3/fuseAiF_wk3_text2sql"
 pip install -r requirements.txt
 ```
 

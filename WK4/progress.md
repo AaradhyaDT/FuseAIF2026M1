@@ -53,6 +53,6 @@ This document tracks the step-by-step progress of the Week 4 Statistical Machine
 
 ## 🏁 Delivery Artifacts Created
 
-1. **Executed Notebook:** [W4_Linear_Models_Assignment_executed.ipynb](file:///c:/Users/Aaradhya/Downloads/_Organized/Fuse%20AI%20Fellowship/FUSE%20AIF%202026/WK4/W4_Linear_Models_Assignment_executed.ipynb) (contains full runtime outputs, plots, and analysis)
-2. **HTML Deliverable:** [W4_Linear_Models_Assignment_executed.html](file:///c:/Users/Aaradhya/Downloads/_Organized/Fuse%20AI%20Fellowship/FUSE%20AIF%202026/WK4/W4_Linear_Models_Assignment_executed.html) (production-grade static review doc)
+1. **Executed Notebook:** [W4_Linear_Models_Assignment_executed.ipynb](file:///c:/Users/Aaradhya/Downloads/_Organized/Fuse%20AI%20Fellowship/FUSE%20AIF%202026%20M1/WK4/W4_Linear_Models_Assignment_executed.ipynb) (contains full runtime outputs, plots, and analysis)
+2. **HTML Deliverable:** [W4_Linear_Models_Assignment_executed.html](file:///c:/Users/Aaradhya/Downloads/_Organized/Fuse%20AI%20Fellowship/FUSE%20AIF%202026%20M1/WK4/W4_Linear_Models_Assignment_executed.html) (production-grade static review doc)
 3. **Updated Knowledge Graph:** Refreshed `graphify-out/` AST index files (`graph.json`, `graph.html`, and `GRAPH_REPORT.md`)
