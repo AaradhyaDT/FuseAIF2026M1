@@ -31,3 +31,7 @@ test_out.txt
 # Local IDEs
 .vscode/
 .idea/
+
+# Local generated output and tool state
+graphify-out/
+.agents/
